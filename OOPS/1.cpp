@@ -12,6 +12,8 @@ class Fruit{
 };
 
 
+
+
 int main(){
     Fruit apple; //object of type fruit
     apple.name = "Apple";
